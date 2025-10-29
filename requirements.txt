@@ -1,0 +1,22 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Dashboard
+streamlit
+plotly
+
+# API Integration
+fastapi
+uvicorn
+
+# Model Saving/Loading
+joblib
+
+# Excel/CSV support
+openpyxl
